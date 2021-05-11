@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbbnam)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Web developer
-- ~2021.05(current) 5 years as a developer
+- ~2021.05(now) 5 years as a developer
